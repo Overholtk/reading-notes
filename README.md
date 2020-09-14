@@ -10,4 +10,4 @@
   - Analyze the source of those thoughts
   
   
-  ### [Profile: Kaya Overholt]()
+[Profile: Kaya Overholt]()
