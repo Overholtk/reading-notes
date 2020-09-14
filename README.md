@@ -10,4 +10,7 @@
   - Analyze the source of those thoughts
   
   
-[Profile: Kaya Overholt]()
+### Profile: Kaya Overholt
+  Hello! My name is Kaya.
+  Pronouns: They/them
+  [GitHub Portfolio]()
