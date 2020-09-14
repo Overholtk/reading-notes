@@ -12,5 +12,7 @@
   
 ### Profile: Kaya Overholt
   Hello! My name is Kaya.
+  
   Pronouns: They/them
+  
   [GitHub Portfolio]()
