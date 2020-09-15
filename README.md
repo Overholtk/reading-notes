@@ -5,5 +5,7 @@
   
   [Day One: Text Editors and Computer basics](Read02.md)
   
+  [Day Two: Revisions and the Cloud](Read03.md)
+  
   
 ## [Profile: Kaya Overholt](personal.md)
