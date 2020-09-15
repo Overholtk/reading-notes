@@ -31,11 +31,11 @@
   **Text Weight**
     *Italicize text by incasing it in one asterisk on either side, or one underscore on either side.*
     
-    ex: ```*this is italic*``` or ```_this is italic_```
+   ex: ```*this is italic*``` or ```_this is italic_```
     
   **Bold text by using two asterisks on each side.**
   
-    ex: ```**this is bolded**```
+   ex: ```**this is bolded**```
     
   **Lists*
   
