@@ -29,6 +29,7 @@
   ## And three for the smallest
   
   **Text Weight**
+  
     *Italicize text by incasing it in one asterisk on either side, or one underscore on either side.*
     
    ex: `*this is italic*``` or ```_this is italic_`
@@ -42,7 +43,7 @@
    ex: `~~This text is stricken~~`
    
    
-  **Lists*
+  **Lists**
   
   - Three kinds of lists are availible in markdown
   - This is an unordered list (bullet points, no rankings)
@@ -52,9 +53,8 @@
   1. Ordered lists including rankings rather than bullet points.
   1. An ordered list is created by placing the number one with a period in front of each list item.
      1. A sub line of any item may be added by indenting the next line
-  1. ex: ``` 1. This is a list item```
-  
-                ``` 1. This is it's sub item```
+  1. ex: ` 1. This is a list item`
+   `          1. This is it's sub item`
                 
   - [x] Task lists allow you to mark items off a list
   - [x] Simply follow your dash by a set of brackets
