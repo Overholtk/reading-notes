@@ -23,7 +23,7 @@
   - [x] minimal special characters
 
 ### Using markdown
-  **Headers**: Three sizes of headers are availible in markdown and are noted with the pound sign.
+  **Headers** are availible in three sizes and are noted with the pound sign.
   # One pound sign produces the largest header
   ## Two for the medium
   ## And three for the smallest
@@ -47,6 +47,13 @@
   1. Ordered lists including rankings rather than bullet points.
   1. An ordered list is created by placing the number one with a period in front of each list item.
      1. A sub line of any item may be added by indenting the next line
+  1. ex: ``` 1. This is a list item```
+                ``` 1. This is it's sub item```
+                
+  **Images** can be added to a webpage by entering the text you want to represent it as well as the image's address into the following line of example code:
+  
+Say this d20 gif is the image I would like to enter:
+![d20](https://media.tenor.com/images/437b15ae3a34ab3a6fe691ff23bace04/tenor.gif)
 
 [Home](README.md)
 
