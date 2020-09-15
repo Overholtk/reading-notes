@@ -6,4 +6,4 @@ Bio:
 
 Contact Info: overholtkaya@gmail.com
 
-![](IMG_20200914_214011 (2).jpg)
+![](https://github.com/Overholtk/reading-notes/blob/master/IMG_20200914_214011%20(2).jpg?raw=true)
