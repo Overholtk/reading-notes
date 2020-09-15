@@ -4,7 +4,4 @@
   [Day One: Growth Mindset and Markdown basics](day1-notes.md)
   
   
-### Profile: Kaya Overholt
-  Hello! My name is Kaya.
-  
-  [GitHub Portfolio]()
+[### Profile: Kaya Overholt](personal.md)
