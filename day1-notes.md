@@ -12,12 +12,25 @@
   - Analyze the source of those thoughts
   
   
-  ## Markdown
+## Markdown
   
-  ### What is Markdown?
-    Markdown is a text styling syntax that can be used around github to present ideas in a visually appealing and easy to read way.
+### What is Markdown?
+   
+   Markdown is a text styling syntax that can be used around github to present ideas in a visually appealing and easy to read way.
     
-    ### Pros of markdown
+### Pros of markdown
+  - [x] lightweight
+  - [x] minimal special characters
+
+### Using markdown
+  **Headers**: Three sizes of headers are availible in markdown and are noted with the pound sign.
+  # One pound sign produces the largest header
+  ## Two for the medium
+  ## And three for the smallest
+  
+  **Text Weight**
+    *Italicize text by incasing it in one astrisk on either side, or one underscore on either side.*
+    ex: ```*this is italic*``` or ```_this is italic_```
 
 [Home](README.md)
 
