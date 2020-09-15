@@ -59,8 +59,7 @@
   - [x] Simply follow your dash by a set of brackets
   - [] When you want the item checked off, include an 'x' character inside the brackets
   - [] ex: `- [x] this is a checked box`
-  
-           `- [] this is a non checked box'
+  - [] ` - [] this is a non checked box`
   
   
   **Images** can be added to a webpage by entering the text you want to represent it as well as the image's address into the following line of example code:
