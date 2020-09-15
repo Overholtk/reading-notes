@@ -31,12 +31,17 @@
   **Text Weight**
     *Italicize text by incasing it in one asterisk on either side, or one underscore on either side.*
     
-   ex: ```*this is italic*``` or ```_this is italic_```
+   ex: `*this is italic*``` or ```_this is italic_`
     
   **Bold text by using two asterisks on each side.**
   
-   ex: ```**this is bolded**```
+   ex: `**this is bolded**`
     
+   ~~Strike through text by using two tilda's on either side~~
+    
+   ex: `~~This text is stricken~~`
+   
+   
   **Lists*
   
   - Three kinds of lists are availible in markdown
@@ -77,6 +82,11 @@ If successful, the image should appear in text:
   Tables can contain Data | That would otherwise be inconvenient to store
   ------------------------|----------------------------------------------
   A pipe separates the two columns| And a row of hyphens separates headers from data
+  
+  ex: `Column 1 | Column 2`
+      `---------|--------`
+      `Info box 1 | Info box 2`
+     
 
 
 [Home](README.md)
