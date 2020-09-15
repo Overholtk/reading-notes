@@ -1,3 +1,6 @@
+![](https://cdn.cnn.com/cnnnext/dam/assets/150103074330-hubble-space-background-2-large-169.jpg)
+
+
 ## Revisions and the Cloud
 
 ### Version Control
@@ -50,3 +53,5 @@
 ## Remote Repositories
 - the `git remote` command allows you to view the names of remote handles
 - using `git remote -v` allows you to view all URLs
+
+[![Home](https://github.com/Overholtk/reading-notes/blob/master/home%20button.png?raw=true)](README.md)
