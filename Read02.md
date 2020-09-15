@@ -32,4 +32,4 @@
 - extensionless
 - everything is considered a file
 
-[![Home](https://github.com/Overholtk/reading-notes/blob/master/home%20button.png?raw=true)](README.md)
+[![Home](https://github.com/Overholtk/reading-notes/blob/master/home%20button.png?raw=true)](https://overholtk.github.io/reading-notes/)
