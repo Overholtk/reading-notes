@@ -93,5 +93,5 @@ If successful, the image should appear in text:
      
 
 
-[![Home](home button.png)](README.md)
+[![Home](https://github.com/Overholtk/reading-notes/blob/master/home%20button.png?raw=true)](README.md)
 
