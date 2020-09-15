@@ -52,9 +52,8 @@
   
   1. Ordered lists including rankings rather than bullet points.
   1. An ordered list is created by placing the number one with a period in front of each list item.
-     1. A sub line of any item may be added by indenting the next line
   1. ex: ` 1. This is a list item`
-   `          1. This is it's sub item`
+       1. A sub line of any item may be added by indenting the next line
                 
   - [x] Task lists allow you to mark items off a list
   - [x] Simply follow your dash by a set of brackets
