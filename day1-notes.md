@@ -11,7 +11,10 @@
   - Keep track of thoughts that put you in a fixed mindset
   - Analyze the source of those thoughts
   
-  
+## GitHub Pages
+  GitHub pages allows you to take a repository of information and transform it into a website with minimal coding. Once your repository is created, you can add web content using it's master branch, upload your own files, and choose a desgin with jekyl templates.
+
+
 ## Markdown
   
 ### What is Markdown?
