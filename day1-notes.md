@@ -48,11 +48,11 @@
   1. An ordered list is created by placing the number one with a period in front of each list item.
      1. A sub line of any item may be added by indenting the next line
   1. ex: ``` 1. This is a list item```
+  
                 ``` 1. This is it's sub item```
                 
   **Images** can be added to a webpage by entering the text you want to represent it as well as the image's address into the following line of example code:
-  
-Say this d20 gif is the image you would like to enter:
+
 ```![Text](Image Address or URL)```
 
 If successful, the image should appear in text:
@@ -60,6 +60,9 @@ If successful, the image should appear in text:
 ![d20](https://media.tenor.com/images/437b15ae3a34ab3a6fe691ff23bace04/tenor.gif)
 
   **Links** are done in the same way, minus without the exclamation point at the beginning of the line. 
+  
+  > what does a block quote do
+  > lets find out
 
 
 [Home](README.md)
