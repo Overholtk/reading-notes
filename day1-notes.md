@@ -39,7 +39,7 @@
     
   **Lists*
   
-  - Two kinds of lists are availible in markdown
+  - Three kinds of lists are availible in markdown
   - This is an unordered list (bullet points, no rankings)
   - Unordered lists are created by placing a dash in front of each item on the list
   - ex ```- this is a list item```
@@ -51,6 +51,13 @@
   
                 ``` 1. This is it's sub item```
                 
+  - [x] Task lists allow you to mark items off a list
+  - [x] Simply follow your dash by a set of brackets
+  - [] When you want the item checked off, include an 'x' character inside the brackets
+  - [] ex: `- [x] this is a checked box`
+           `- [] this is a non checked box'
+  
+  
   **Images** can be added to a webpage by entering the text you want to represent it as well as the image's address into the following line of example code:
 
 ```![Text](Image Address or URL)```
@@ -61,8 +68,15 @@ If successful, the image should appear in text:
 
   **Links** are done in the same way, minus without the exclamation point at the beginning of the line. 
   
-  > what does a block quote do
-  > lets find out
+  > A **block quote** will indent and hilight an important piece of text. This is done by using a greater than sign in front of the text.
+  
+  ex: ``` > this is a quote from a famous person!```
+  
+  **Code Blocks** allow you to include bare code on your webpage without markdown translating it to edit text. You can achieve this by putting your code inside a set of apostraphies or indenting by four spaces.
+  
+  Tables can contain Data | That would otherwise be inconvenient to store
+  -----------------------------------------------------------------------
+  A pipe separates the two columns| And a row of hyphens separates headers from data
 
 
 [Home](README.md)
