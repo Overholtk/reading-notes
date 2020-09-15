@@ -84,7 +84,9 @@ If successful, the image should appear in text:
   A pipe separates the two columns| And a row of hyphens separates headers from data
   
   ex: `Column 1 | Column 2`
+  
       `---------|--------`
+      
       `Info box 1 | Info box 2`
      
 
