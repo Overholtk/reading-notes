@@ -29,8 +29,24 @@
   ## And three for the smallest
   
   **Text Weight**
-    *Italicize text by incasing it in one astrisk on either side, or one underscore on either side.*
+    *Italicize text by incasing it in one asterisk on either side, or one underscore on either side.*
+    
     ex: ```*this is italic*``` or ```_this is italic_```
+    
+  **Bold text by using two asterisks on each side.**
+  
+    ex: ```**this is bolded**```
+    
+  **Lists*
+  
+  - Two kinds of lists are availible in markdown
+  - This is an unordered list (bullet points, no rankings)
+  - Unordered lists are created by placing a dash in front of each item on the list
+  - ex ```- this is a list item```
+  
+  1. Ordered lists including rankings rather than bullet points.
+  1. An ordered list is created by placing the number one with a period in front of each list item.
+     1. A sub line of any item may be added by indenting the next line
 
 [Home](README.md)
 
