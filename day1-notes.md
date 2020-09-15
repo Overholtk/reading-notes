@@ -52,8 +52,15 @@
                 
   **Images** can be added to a webpage by entering the text you want to represent it as well as the image's address into the following line of example code:
   
-Say this d20 gif is the image I would like to enter:
+Say this d20 gif is the image you would like to enter:
+```![Text](Image Address or URL)```
+
+If successful, the image should appear in text:
+
 ![d20](https://media.tenor.com/images/437b15ae3a34ab3a6fe691ff23bace04/tenor.gif)
+
+  **Links** are done in the same way, minus without the exclamation point at the beginning of the line. 
+
 
 [Home](README.md)
 
