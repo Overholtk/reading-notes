@@ -93,5 +93,5 @@ If successful, the image should appear in text:
      
 
 
-[![Home]home button.png](README.md)
+[![Home](home button.png)](README.md)
 
