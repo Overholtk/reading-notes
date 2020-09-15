@@ -1,9 +1,11 @@
-Name: Kaya Overholt
+![](https://cdn.cnn.com/cnnnext/dam/assets/150103074330-hubble-space-background-2-large-169.jpg)
 
-Pronouns: They/them
+**Name:** Kaya Overholt
 
-Bio: 
+**Pronouns:** They/them
 
-Contact Info: overholtkaya@gmail.com
+**Bio:** 
+
+**Contact Info:** overholtkaya@gmail.com
 
 ![](https://github.com/Overholtk/reading-notes/blob/master/IMG_20200914_214011%20(2).jpg?raw=true)
