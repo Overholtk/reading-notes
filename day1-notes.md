@@ -1,7 +1,9 @@
+![](https://cdn.cnn.com/cnnnext/dam/assets/150103074330-hubble-space-background-2-large-169.jpg)
+
 ## Growth Mindset
 
 ### What is Growth Mindset?
-A growth mindset is a state of mind that promotes emotional flexibility and mental resilliance in the face of challenge.
+A **growth mindset** is a state of mind that promotes emotional flexibility and mental resilliance in the face of challenge.
 
 ### How do you stay in a growth mindset?
 
