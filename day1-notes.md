@@ -30,7 +30,7 @@
   
   **Text Weight**
   
-    *Italicize text by incasing it in one asterisk on either side, or one underscore on either side.*
+   *Italicize text by incasing it in one asterisk on either side, or one underscore on either side.*
     
    ex: `*this is italic*``` or ```_this is italic_`
     
