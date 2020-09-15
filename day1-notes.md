@@ -10,6 +10,14 @@
   - Mindful thinking is essential to a growth mindset
   - Keep track of thoughts that put you in a fixed mindset
   - Analyze the source of those thoughts
+  
+  
+  ## Markdown
+  
+  ### What is Markdown?
+    Markdown is a text styling syntax that can be used around github to present ideas in a visually appealing and easy to read way.
+    
+    ### Pros of markdown
 
 [Home](README.md)
 
