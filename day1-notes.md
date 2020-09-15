@@ -75,7 +75,7 @@ If successful, the image should appear in text:
   **Code Blocks** allow you to include bare code on your webpage without markdown translating it to edit text. You can achieve this by putting your code inside a set of apostraphies or indenting by four spaces.
   
   Tables can contain Data | That would otherwise be inconvenient to store
-  -----------------------------------------------------------------------
+  ------------------------|----------------------------------------------
   A pipe separates the two columns| And a row of hyphens separates headers from data
 
 
