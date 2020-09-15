@@ -3,7 +3,7 @@
 ## Daily Notes
   [Day One: Growth Mindset and Markdown basics](day1-notes.md)
   
-  [Day One: Text Editors and Computer basics] (Read02.md)
+  [Day One: Text Editors and Computer basics](Read02.md)
   
   
 ## [Profile: Kaya Overholt](personal.md)
