@@ -7,9 +7,9 @@
 
 ### How do you stay in a growth mindset?
 
-  -Mindful thinking is essential to a growth mindset
-  -Keep track of thoughts that put you in a fixed mindset
-  -Analyze the source of those thoughts
+  - Mindful thinking is essential to a growth mindset
+  - Keep track of thoughts that put you in a fixed mindset
+  - Analyze the source of those thoughts
 
 [Home](README.md)
 
