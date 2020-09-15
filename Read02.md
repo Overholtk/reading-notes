@@ -1,3 +1,6 @@
+![](https://cdn.cnn.com/cnnnext/dam/assets/150103074330-hubble-space-background-2-large-169.jpg)
+
+
 ## Choosing a Text Editor
 
 - What is a text editor?
@@ -28,3 +31,5 @@
 - case sensitive
 - extensionless
 - everything is considered a file
+
+[![Home](https://github.com/Overholtk/reading-notes/blob/master/home%20button.png?raw=true)](README.md)
