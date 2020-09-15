@@ -54,4 +54,4 @@
 - the `git remote` command allows you to view the names of remote handles
 - using `git remote -v` allows you to view all URLs
 
-[![Home](https://github.com/Overholtk/reading-notes/blob/master/home%20button.png?raw=true)](README.md)
+[![Home](https://github.com/Overholtk/reading-notes/blob/master/home%20button.png?raw=true)](https://overholtk.github.io/reading-notes/)
