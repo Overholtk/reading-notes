@@ -4,4 +4,4 @@
   [Day One: Growth Mindset and Markdown basics](day1-notes.md)
   
   
-[### Profile: Kaya Overholt](personal.md)
+### [Profile: Kaya Overholt](personal.md)
