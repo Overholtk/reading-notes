@@ -1,3 +1,5 @@
+![](https://cdn.cnn.com/cnnnext/dam/assets/150103074330-hubble-space-background-2-large-169.jpg)
+
 ## Design Web Pages with CSS
 
 **CSS** allows you to create rules that specify how the content of an element should appear.
@@ -61,4 +63,7 @@ General Sibling | Matches an element that is a sibling of another | `h~p {}` |
 
 ### Inheritance
 
+Many properties are **inherited** by most child elements (ex: body to section), such as font style and color. If a property is not inherited and you would like it to be, you can use `inherit` for the value property of that element.
 
+
+[![Home](https://github.com/Overholtk/reading-notes/blob/master/home%20button.png?raw=true)](https://overholtk.github.io/reading-notes/)
