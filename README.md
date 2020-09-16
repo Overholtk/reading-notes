@@ -9,5 +9,6 @@
   
   [Day Two: Structure Web Pages with HTML](Read04.md)
   
+  [Day Three: Design Web Pages with CSS](Read05.md)
   
 ## [Profile: Kaya Overholt](personal.md)
