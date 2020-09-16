@@ -1,3 +1,5 @@
+![](https://cdn.cnn.com/cnnnext/dam/assets/150103074330-hubble-space-background-2-large-169.jpg)
+
 # Structure Pages With HTML
 
 ## Page Structure
@@ -65,3 +67,4 @@ HTML describes the structure of pages using elements
 - Body:
   - everything inside the body is displayed on the webpage
  
+[![Home](https://github.com/Overholtk/reading-notes/blob/master/home%20button.png?raw=true)](https://overholtk.github.io/reading-notes/)
