@@ -11,6 +11,6 @@
   
   [Day Three: Design Web Pages with CSS](Read05.md)
   
-  [Day Three: Dynamic Webpages with Javascript]{Read06a.md)
+  [Day Three: Dynamic Webpages with Javascript](Read06a.md)
   
 ## [Profile: Kaya Overholt](personal.md)
