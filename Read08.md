@@ -1,3 +1,5 @@
+![](https://cdn.cnn.com/cnnnext/dam/assets/150103074330-hubble-space-background-2-large-169.jpg)
+
 # Operators and Loops
 
 ## Comparison operators
@@ -45,3 +47,5 @@
     `do {` *opens the do portion of the loop*
     `  msg += i + ' x 5 = ' + (i * 5) + <br />;` *the same concatination and calculation statement as before*
     `} while (i < 1);` *closes the loop and states the run condition. The loop has already been run once, even though the counter started at one*
+    
+    [![Home](https://github.com/Overholtk/reading-notes/blob/master/home%20button.png?raw=true)](https://overholtk.github.io/reading-notes/)
