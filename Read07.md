@@ -1,3 +1,6 @@
+![](https://cdn.cnn.com/cnnnext/dam/assets/150103074330-hubble-space-background-2-large-169.jpg)
+
+
 # Programming with JavaScript
 
 ## How JavaScript makes pages more interactive
@@ -51,3 +54,5 @@
     ex: `thisIsAFunction();`
 - Parameters are the information the function needs to work
 - returns allow you to get a variable out of a function so it can be referenced in other places
+
+[![Home](https://github.com/Overholtk/reading-notes/blob/master/home%20button.png?raw=true)](https://overholtk.github.io/reading-notes/)
