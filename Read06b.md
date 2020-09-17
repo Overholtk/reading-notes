@@ -1,3 +1,5 @@
+![](https://cdn.cnn.com/cnnnext/dam/assets/150103074330-hubble-space-background-2-large-169.jpg)
+
 ## How computers work
 - 4 core functions
   - Input
@@ -53,3 +55,5 @@ CPU:
   
 OS:
 - master program that manages how software uses the hardware
+
+[![Home](https://github.com/Overholtk/reading-notes/blob/master/home%20button.png?raw=true)](https://overholtk.github.io/reading-notes/)
