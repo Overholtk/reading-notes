@@ -15,6 +15,8 @@
   
   [Day Three: Software and Hardware](Read06b.md)
   
+  [Day Four: Programming with JavaScript](Read07.md)
+  
   [Day Four: Operators and Loops](Read08.md)
   
 ## [Profile: Kaya Overholt](personal.md)
