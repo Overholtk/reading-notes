@@ -13,4 +13,6 @@
   
   [Day Three: Dynamic Webpages with Javascript](Read06a.md)
   
+  [Day Three: Software and Hardware](Read06b.md)
+  
 ## [Profile: Kaya Overholt](personal.md)
