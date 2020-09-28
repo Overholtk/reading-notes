@@ -1,6 +1,6 @@
 ![](https://cdn.cnn.com/cnnnext/dam/assets/150103074330-hubble-space-background-2-large-169.jpg)
 
-## Daily Notes
+## Code 102:
   [Day One: Growth Mindset and Markdown basics](Read01.md)
   
   [Day One: Text Editors and Computer basics](Read02.md)
@@ -18,5 +18,7 @@
   [Day Four: Programming with JavaScript](Read07.md)
   
   [Day Four: Operators and Loops](Read08.md)
+  
+  ## Code 201:
   
 ## [Profile: Kaya Overholt](personal.md)
