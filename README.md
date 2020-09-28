@@ -1,24 +1,22 @@
 ![](https://cdn.cnn.com/cnnnext/dam/assets/150103074330-hubble-space-background-2-large-169.jpg)
 
-## Code 102:
-  [Day One: Growth Mindset and Markdown basics](Read01.md)
-  
-  [Day One: Text Editors and Computer basics](Read02.md)
-  
-  [Day Two: Revisions and the Cloud](Read03.md)
-  
-  [Day Two: Structure Web Pages with HTML](Read04.md)
-  
-  [Day Three: Design Web Pages with CSS](Read05.md)
-  
-  [Day Three: Dynamic Webpages with Javascript](Read06a.md)
-  
-  [Day Three: Software and Hardware](Read06b.md)
-  
-  [Day Four: Programming with JavaScript](Read07.md)
-  
-  [Day Four: Operators and Loops](Read08.md)
+Welcome! This is a personal collection of class and reading notes taken during codefellows course work.
   
   ## Code 201:
+    Pre Reading
+    Reading 1
+    Reading 2
+    Reading 3
+    Reading 4
+    Reading 5
+    Reading 6
+    Reading 7
+    Reading 8
+    Reading 9
+    Reading 10
+    Reading 11
+    Reading 12
+    Reading 13
+    Reading 14
   
 ## [Profile: Kaya Overholt](personal.md)
