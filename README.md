@@ -2,7 +2,7 @@
 
 Welcome! This is a personal collection of class and reading notes taken during codefellows course work.
   
-  ## Code 201:
+  ## Code 201 Reading Notes:
     Pre Reading
     Reading 1
     Reading 2
