@@ -4,9 +4,9 @@ Welcome! This is a personal collection of class and reading notes taken during c
   
   ## Code 201 Reading Notes:
   
-   [Reading 1](201Read01.md)
+   [Reading 1](201/Read01.md)
    
-   [Reading 2](201Read02.md)
+   [Reading 2](201/Read02.md)
    
    Reading 3
    
