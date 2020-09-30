@@ -8,7 +8,7 @@ Welcome! This is a personal collection of class and reading notes taken during c
    
    [Reading 2](201/Read02.md)
    
-   Reading 3
+   [Reading 3](201/Read03.md)
    
    Reading 4
    
