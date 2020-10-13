@@ -71,6 +71,7 @@ Shadows:
 Text:
 - `fillText(text, x, y [, maxwidth])` fills a given text at x,y position
 - `strokeText(text, x, y [, maxWidth])` strokes a given text at x,y position
+
 Styling text:
 - `font = value`
 - `text-align = value`
