@@ -1,0 +1,81 @@
+## Images
+
+- Adjust multiple images at once by choosing three sizes (ex: small, medium, and large) and then assigning the relevent class to the image
+- Aligning images all at once can be done by assigning them an align-left or align-right class
+- Centering images can be done with `text-align: center` or the `margin` property on the individual image
+- the `background image` property allows you to set an image to the background on the entire page or just part of the page
+- Repeating images:
+  - `repeat` repeated both horizontally and vertically
+  - `repeat-x` repeated horizontally only
+  - `repeat-y` repeated vertically only
+  - `no-repeat` only shows once
+  - `fixed` stays in the same position on the page
+  - `scroll` background image moves up and down as the user scrolls
+- `background position` determines where in the browser a background image should be placed as long as it is not repeating, and can use the following values:
+  - `left top`
+  - `left center`
+  - `left bottom`
+  - `left bottom`
+  - `center top`
+  - `center center`
+  - `center bottom`
+  - `right top`
+  - `right center`
+  - `right bottom`
+- shortcut: `background` can take the following properties (in order):
+  - `background-color`
+  - `background-image`
+  - `background-repeat`
+  - `background-attachment`
+  - `background-position`
+- image rollovers: when a link or button changes style when a user hovers their mouse over it
+  - set a background image for the link or button that has three different styles of the same button (w space only to show one at a time) 
+- sprite: an image used in several different places on a page
+  - loads faster than if it had to call multiple images
+- gradient backgrounds are created using the `background-image` property
+- Background image contrast: high contrast is difficult to read, use low contrast or include a screen over the image / under the text to improve readability
+
+
+## Practical Info
+
+Search engine optimization (SEO)
+- the practice of trying to help your site appear nearer to  the top of search engine results when people look for the topics that your website covers
+- determining what keywords are likely to be searched, and putting them in the right places on your website
+- determined by both information directly on your site and how many relevent sites link to you
+- on-page techniques:
+  - determining keywords and including them in the HTML text
+  - images having useful `alt` values also helps search engines find you
+  - Page title
+  - url
+  - headings
+  - text
+  - link text
+  - image alt text
+  - page descriptions
+- Identifying keywords and phrases:
+  - Brainstorm: list words related to your site that someone might enter into a google search, ask other people, include keyword phrases
+  - Organize: group the keywords into lists
+  - Research: websites that offer additional keywords based on your keyword choices
+  - Compare: compare your keywords to how popular to get an idea of how much competition there is
+  - Refine: focus on the most relevent keywords, make phrases more specific if there is high competition, keep it relevent to things like location
+  - Map: pick 3-5 keywords or phrases and decide where to include them, farther away from main page = more specific
+- Google analytics: after you sign up, everytime someone loads a page of your site, the tracking code sends data to the google servers wehre it is stored. 
+- Analytics Breakdown:
+  - Visits: number of times poeople have come to your site
+  - Unique Visits: number of individuals who have visited
+  - Page Views: number of pages all visitors have viewed
+  - Pages per visit: avg number of pages each visitor has looked at on your site
+  - Average time: how long the average person spends on your site
+  - date selector: change the reporting period
+  - export: exports statistics to other places like excel
+  - Pages: tells you which pages your visitors are looking at the most and which they are spending the most time on
+  - Landing pages: pages people arrive on first
+  - Top exit pages: shows pages people most commonly leave from
+  - Bounce rate: the amount of times a user left on the same page they arrived on
+  - Referrers: sites that have linked to you and the number of people who used them
+- Web Hosting:
+  - disk space: total size of all the files that make up your site
+  - bandwidth: the amount of data the hosting company will send to your sites visitors
+  - backups: check whether the hosting company performs backups on your site and how often
+  - Email accounts: size of provided mailbox
+  - server-side languages and databases: ensure the hosting service supports the technologies you're using
