@@ -2,36 +2,15 @@
 
 Welcome! This is a personal collection of class and reading notes taken during codefellows course work.
   
-  ## Code 201 Reading Notes:
+# Reading Notes:
+
+*click a heading to be directed to a table of contents of notes for that course:!*
+
+  ## [Code 102: Intro to Software Development](102/Table-Of-Contents.md)
+  ## Code 201: Foundations of Software Development
+  ## Code 301: Intermediate Software Development
+  ## Code 401: Advanced Software Development
   
-   [Reading 1](201/Read01.md)
-   
-   [Reading 2](201/Read02.md)
-   
-   [Reading 3](201/Read03.md)
-   
-   Reading 4
-   
-   Reading 5
-   
-   Reading 6
-   
-   Reading 7
-   
-   Reading 8
-   
-   Reading 9
-   
-   Reading 10
-   
-   Reading 11
-   
-   Reading 12
-   
-   Reading 13
-   
-   Reading 14
-   
-   Reading 15
+  
   
 ## [Profile: Kaya Overholt](personal.md)
