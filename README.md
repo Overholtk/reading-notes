@@ -7,8 +7,8 @@ Welcome! This is a personal collection of class and reading notes taken during c
 *click a heading to be directed to a table of contents of notes for that course:!*
 
   ## [Code 102: Intro to Software Development](102/Table-Of-Contents.md)
-  ## Code 201: Foundations of Software Development
-  ## Code 301: Intermediate Software Development
+  ## [Code 201: Foundations of Software Development](201/Table-Of-Contents.md)
+  ## [Code 301: Intermediate Software Development](301/Table-Of-Contents.md)
   ## Code 401: Advanced Software Development
   
   
