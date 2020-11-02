@@ -73,7 +73,7 @@ If successful, the image should appear in text:
 
 ![d20](https://media.tenor.com/images/437b15ae3a34ab3a6fe691ff23bace04/tenor.gif)
 
-  **Links** are done in the same way, minus without the exclamation point at the beginning of the line. 
+  **Links** are done in the same way, minus the exclamation point at the beginning of the line. 
   
   > A **block quote** will indent and hilight an important piece of text. This is done by using a greater than sign in front of the text.
   
