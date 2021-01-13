@@ -1,0 +1,15 @@
+## File and Stream IO
+- I/O: input/output
+- File and Stream IO refers to the transfer of data to or from a storage medium
+- file: an ordered and named collection of bytes that has persistent storage. Involves directory paths, disk storage, & file/directory names
+  - File class: create, copy, delete, move, and open files. static.
+  - FileInfo class: create, copy, delete, move and open files. instance.
+  - Directory class: create, move, enumerate through directories & subdierectories. static.
+  - DirectoryInfo class: create, move, enumerate through directories & subdirectories.  isntance.
+  - Path class: processes directory strings in a cross-platform manner
+- stream: sequence of bytes that can be used to read or write a backing store
+  - reading: data transfer from stream to data structure
+  - writing: transfering data to a stream
+  - seeking: querying and modifying the current position within a stream
+- Readers and Writers: convert characters to and from bytes
+- Compression: reducing a file for storage
